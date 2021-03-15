@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="catalog.xsl" type="text/xsl"?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<catalog>
+   <product description="Cardigan Sweater" product_image="cardigan.jpg">
+      <catalog_item gender="Men's">
+         <item_number name="QWZ5671">
+         	<price>39.95</price>
+         		<size description="Medium">
+            			<color>Red</color>
+            			<color>Burgundy</color>
+         		</size>
+         		<size description="Large">
+            			<color>Red</color>
+            			<color>Burgundy</color>
+         		</size>
+         </item_number>
+         <item_number name="QWZ5672">
+         	<price>39.95</price>
+         		<size description="Medium">
+            			<color>Red</color>
+            			<color>Burgundy</color>
+         		</size>
+         		<size description="Large">
+            			<color>Red</color>
+            			<color>Burgundy</color>
+         		</size>
+	</item_number>
+         <item_number name="QWZ5673">
+         <price>39.95</price>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+	</item_number>
+         
+         <item_number name="QWZ5685">
+         <price>39.95</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Large">
+            <color>Red</color>
+            <color>Burgundy</color>
+         </size>
+        </item_number>
+        
+      </catalog_item>
+      <catalog_item gender="Women's">
+         <item_number name="RRX9856">
+         <price>42.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+         <size description="Extra Large">
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+</item_number>
+         <item_number name="RRX9851">
+         <price>40.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+</item_number>
+         <item_number name="RRX9852">
+         <price>41.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+</item_number>
+         <item_number name="RRX9857">
+         <price>42.50</price>
+         <size description="Small">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+         </size>
+         <size description="Medium">
+            <color>Red</color>
+            <color>Navy</color>
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+         <size description="Large">
+            <color>Navy</color>
+            <color>Black</color>
+         </size>
+         <size description="Extra Large">
+            <color>Burgundy</color>
+            <color>Black</color>
+         </size>
+	</item_number>
+      </catalog_item>
+   </product>
+</catalog>
